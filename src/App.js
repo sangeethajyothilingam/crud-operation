@@ -14,7 +14,7 @@ function App() {
   const [data, setData] = useState([
     {
       id: 1,
-      username: "User 1",
+      name: "User 1",
       email: "user1@gmail.com",
       country: "India",
       state: "TN",
@@ -22,7 +22,7 @@ function App() {
     },
     {
       id: 2,
-      username: "User 2",
+      name: "User 2",
       email: "user2@gmail.com",
       country: "India",
       state: "TN",
@@ -30,7 +30,7 @@ function App() {
     },
     {
       id: 3,
-      username: "User 3",
+      name: "User 3",
       email: "user3@gmail.com",
       country: "India",
       state: "TN",
